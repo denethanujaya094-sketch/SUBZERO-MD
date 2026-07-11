@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: subzero-md
+    name: DENETH MD
     runtime: docker
     dockerfilePath: /Dockerfile
     envVars:
