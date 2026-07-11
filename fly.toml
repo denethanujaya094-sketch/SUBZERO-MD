@@ -1,4 +1,4 @@
-app = "subzero-md"
+app = "deneth-md"
 primary_region = "iad"
 
 [build]
