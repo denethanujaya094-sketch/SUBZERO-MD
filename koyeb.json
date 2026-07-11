@@ -1,5 +1,5 @@
 {
-  "name": "subzero-md",
+  "name": "deneth-md",
   "type": "WEB",
   "strategy": {
     "type": "DEPLOYMENT_STRATEGY_TYPE_ROLLING"
