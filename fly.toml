@@ -2,7 +2,7 @@ app = "deneth-md"
 primary_region = "iad"
 
 [build]
-  dockerfile = "lib/Dockerfile"
+  dockerfile = "Dockerfile"
 
 [env]
   PORT = "5000"
