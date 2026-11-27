@@ -15,8 +15,8 @@ DATABASE_URL: process.env.DATABASE_URL || '',
 botName: process.env.BOT_NAME || 'DEMETH-MD',
 botOwner: process.env.BOT_OWNER || 'ANUWA',
 ownerNumber: process.env.OWNER_NUMBER || '94756086474',
-author: process.env.AUTHOR || 'Mr Frank OFC',
-packname: process.env.PACKNAME || 'SUBZERO-MD',
+author: process.env.AUTHOR || 'Mr Denxx OFC',
+packname: process.env.PACKNAME || 'Denxxx-MD',
 description: process.env.DESCRIPTION || 'Multi-device WhatsApp bot',
 
 /* ================= SESSION ================= */
