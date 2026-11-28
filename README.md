@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://mrfranko-cdn.hf.space/media/subzero/sublogo.png" width="100%" style="border-radius:12px;" />
+<img src="https://i.postimg.cc/zBBhV3cP/IMG-20261128-WA2704.jpg" width="100%" style="border-radius:12px;" />
 
 <br/>
 
