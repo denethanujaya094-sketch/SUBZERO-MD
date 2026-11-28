@@ -10,8 +10,8 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/mrfrank-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrfr8nk)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mrfr4nk)
+[![GitHub](https://img.shields.io/badge/mrfrank-181717?style=for-the-badge&logo=github&logoColor=white)]()
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![WhatsApp](https://img.shields.io/badge/Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BSoZtElJwlj6lPUYfBL0ee?s=cl&p=a&iam=2)
 
 <br/>
